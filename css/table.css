@@ -1,0 +1,16 @@
+/* body {
+        display: flex;
+    } */
+    h1{
+        text-align: center;
+    }
+    table {
+        width: auto;
+        height: 200px;
+        /* justify-content: center; */
+        margin-left: auto;
+        margin-right: auto;
+    }
+    h1{
+        justify-content: cent;
+    }
